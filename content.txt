@@ -1,1 +1,2 @@
 Sesion practica de git
+Nuevo elemento de netcore
